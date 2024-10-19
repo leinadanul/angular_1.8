@@ -1,0 +1,32 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Optional npm cache directory
+.npm/
+
+# VSCode settings
+.vscode/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos temporales
+*.log
+*.tmp
+*.bak
+
+# Coverage directory (si estás usando alguna herramienta de cobertura de tests)
+coverage/
+
+# Archivos de compilación
+dist/
+build/
+
+# Cache y configuración de linters o herramientas
+.eslintcache
